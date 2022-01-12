@@ -74,6 +74,6 @@ def main(): ## the below will only be run if the module is run as a script. Othe
   print('...end')
   
         
-# the boilerplate below checks the code is being run as a script, not as a module import. 
+# the boilerplate below checks the code is being run as a script, not as a module import l. 
 if __name__ == '__main__': 
   main()
